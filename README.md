@@ -1,7 +1,7 @@
 ### Software Engineer in development
 
-- 🔭 I’m currently working on Konica Minolta as QAE performing automation functional integration API tests;
-- 🌱 I’m currently learning .NET and SQL;
+- 🔭 I’m currently working as QAE performing automation functional integration Web and API tests;
+- 🌱 I’m currently learning TS and Playwright;
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-rcn&show_icons=true&theme=dark"/>
